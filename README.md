@@ -1,6 +1,5 @@
 # README
 
-test
 [Upskill](http://upskillcourses.com) Software-as-a-Service Ruby on Rails App
 
 This README would normally document whatever steps are necessary to get the
